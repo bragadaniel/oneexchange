@@ -11,6 +11,6 @@ $(document).ready ->
                 }
           error: (jqXHR, textStatus, errorThrown) ->
             alert textStatus
-          success: (data, textStatus, jqXHR) ->
+          success: (data, text, jqXHR) ->
             $('#result').val(data.value)
         return false;
