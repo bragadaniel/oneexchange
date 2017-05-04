@@ -13,10 +13,18 @@
           color: #878d99;
           font-weight: 700;
         }
-        .btn-exchange{
-          background-color: #5bc0de;
-          border-color: #5bc0de;
-          border-radius: 0;
+        .destination_currency{
+          .form-group{
+            .btn-swap{
+              float: right;
+              margin-top: -50px;
+              outline: none;
+              position: relative;
+              .btn-change{
+                border-radius: 0;
+              }
+            }
+          }
         }
       }
     }
