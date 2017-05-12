@@ -2,11 +2,11 @@
 
 Primeiro app bootcamp2, um conversor que utiliza a api [fixer.io].
 
-![Screenshot](oneexchange/public/screenshot-onexchange.png?raw=true "Screenshot")
+![Screenshot](oneexchange/public/screenshot-oneexchange.png?raw=true "Screenshot")
 
 ### Install Docker
 
-*[Docker](https://docs.docker.com/engine/installation/) -  Build, Ship, and Run Any App, Anywhere7
+* [Docker](https://docs.docker.com/engine/installation/) -  Build, Ship, and Run Any App, Anywhere7
 
 Run command:
 
