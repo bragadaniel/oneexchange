@@ -2,7 +2,7 @@
 
 Primeiro app bootcamp2, um conversor que utiliza a api [fixer.io].
 
-![Screenshot](oneexchange/public/screenshot-onexchange.png?raw=true "Screenshot")
+![Screenshot](oneexchange/public/screenshot-oneexchange.png?raw=true "Screenshot")
 
 ### Install Docker
 
